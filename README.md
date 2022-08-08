@@ -6,11 +6,11 @@
 
 ## Abstract:
 
-This project is a travel planner that will find the forecast in cities 
+This project Generates a readme file based on user input from standard questions 
 
 ## Project Brief:
 
-A user 
+A user will answer a series of questions about their project and it will out-generate a readme file that can be used as a template for their codebase.
 
 ## Technologies used:
 
